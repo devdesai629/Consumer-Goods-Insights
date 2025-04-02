@@ -6,21 +6,11 @@ This repository contains my solution to the Atliq Hardware SQL Analytics Challen
 
 Challenge Description
 Atliq Hardware, a leading computer hardware producer, needed to enhance their data-driven decision-making capabilities. The challenge involved addressing 10 ad-hoc business requests by writing SQL queries, analyzing the results, and presenting findings to top-level management.
+
+
 Live Dashboard
 🔗 https://app.powerbi.com/view?r=eyJrIjoiZTdkYzYwNmMtMDMwMS00Mjk2LWIwYWEtYjcxODMzMDAyMTZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-Repository Structure
-Copy
-atliq-hardware-analytics/
-├── queries/                     # SQL query files for each request
-│   ├── request_1.sql
-│   ├── request_2.sql
-│   └── ...
-├── data/                        # Sample data files (if provided)
-├── presentation/                # Presentation materials
-│   ├── Atliq_Analytics_Report.pptx
-│   └── Atliq_Analytics_Video.mp4
-├── README.md                    # This file
 
 Key Features
 Comprehensive SQL Solutions: Clean, well-commented SQL queries for all 10 business requests
