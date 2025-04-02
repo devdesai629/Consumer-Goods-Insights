@@ -1,89 +1,98 @@
 # Consumer-Goods-Insights
-Consumer-Goods Insights- Ad hoc requests
+**Consumer-Goods Insights**- Ad hoc requests
 Atliq Hardware SQL Analytics Challenge
-Overview
+
+**Overview**
+
 This repository contains my solution to the Atliq Hardware SQL Analytics Challenge, which simulates a real-world business scenario where a data analyst needs to extract insights from a database to support executive decision-making.
 
-Challenge Description
+**Challenge Description**
+
 Atliq Hardware, a leading computer hardware producer, needed to enhance their data-driven decision-making capabilities. The challenge involved addressing 10 ad-hoc business requests by writing SQL queries, analyzing the results, and presenting findings to top-level management.
 
 
-Live Dashboard
+**Live Dashboard**
+
 🔗 https://app.powerbi.com/view?r=eyJrIjoiZTdkYzYwNmMtMDMwMS00Mjk2LWIwYWEtYjcxODMzMDAyMTZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
-Key Features
-Comprehensive SQL Solutions: Clean, well-commented SQL queries for all 10 business requests
+**Key Features**
 
-Business-Focused Analysis: Insights tailored for executive decision-making
+-Comprehensive SQL Solutions: Clean, well-commented SQL queries for all 10 business requests
 
-Professional Presentation: Video and slide deck demonstrating findings
+-Business-Focused Analysis: Insights tailored for executive decision-making
 
-Performance Optimization: Efficient queries designed for large datasets
+-Professional Presentation: Video and slide deck demonstrating findings
 
-Business Requests Addressed
-Market analysis for "Atliq Exclusive" in APAC region
+-Performance Optimization: Efficient queries designed for large datasets
 
-Product growth analysis (2020 vs 2021)
+**Business Requests Addressed**
 
-Segment-wise product count ranking
+-Market analysis for "Atliq Exclusive" in APAC region
 
-Segment growth analysis
+-Product growth analysis (2020 vs 2021)
 
-Product cost analysis (highest/lowest manufacturing costs)
+-Segment-wise product count ranking
 
-Top customer discount analysis
+-Segment growth analysis
 
-Monthly sales performance for Atliq Exclusive
+-Product cost analysis (highest/lowest manufacturing costs)
 
-Quarterly sales performance in 2020
+-Top customer discount analysis
 
-Channel contribution analysis
+-Monthly sales performance for Atliq Exclusive
 
-Top-performing products by division
+-Quarterly sales performance in 2020
 
-Technical Approach
-Used advanced SQL techniques including:
+-Channel contribution analysis
 
-Common Table Expressions (CTEs)
+-Top-performing products by division
 
-Window functions
+**Technical Approach**
 
-Complex joins
+-Used advanced SQL techniques including:
 
-Aggregation functions
+-Common Table Expressions (CTEs)
 
-Date operations
+-Window functions
 
-Focused on query readability and performance
+-Complex joins
 
-Validated results against business expectations
+-Aggregation functions
 
-How to Use
-Clone the repository
+-Date operations
 
-Review SQL queries in the /queries folder
+-Focused on query readability and performance
 
-Watch the presentation video for business insights
+-Validated results against business expectations
 
-Examine the slide deck for key takeaways
+**How to Use**
 
-LinkedIn Post
+-Clone the repository
+
+-Review SQL queries in the /queries folder
+
+-Watch the presentation video for business insights
+
+-Examine the slide deck for key takeaways
+
+**LinkedIn Post**
+
 LinkedIn :
 
 I've shared my experience working on this challenge on LinkedIn, including:
 
-Key learnings
+**Key learnings**
 
-Business impact of the analysis
+-Business impact of the analysis
 
-Technical challenges overcome
+-Technical challenges overcome
 
-Visualization approaches
+-Visualization approaches
 
-Acknowledgments
-Atliq Hardware for creating this realistic business scenario
+**Acknowledgments**
+-Atliq Hardware for creating this realistic business scenario
 
-Codebasics.io for hosting the challenge
+-Codebasics.io for hosting the challenge
 
-The data analytics community for shared knowledge
+-The data analytics community for shared knowledge
